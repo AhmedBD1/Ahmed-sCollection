@@ -1,0 +1,16 @@
+.bg-tcolor{
+	background-color: #013f63 !important;
+	/*#726032*/
+}
+.picdiv{
+	height: 60%;
+	padding: 10%;
+    background-image: url(./img/ahmedscollection.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.gallaryitems{
+	border-color: #013f63 !important;
+	border-width: 3px !important;
+
+}
